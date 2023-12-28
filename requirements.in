@@ -1,0 +1,19 @@
+assertpy
+babel>=2.12.1
+beautifulsoup4>=4.11.2
+# docker-compose
+lxml>=4.7.1
+psutil>=5.8.0
+py>=1.10.0
+# pylint
+pytest>=7.2.1
+pytest-bdd>=6.1.1
+pytest-docker
+pytest-html>=3.2.0
+# pytest-html-profiling
+pytest-parallel>=0.1.0
+pytest-rerunfailures>=11.0
+pytest-xdist>=3.2.0
+selenium>=4.8.0
+w3lib
+webdriver-manager>=3.8.5
